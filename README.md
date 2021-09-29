@@ -1,7 +1,16 @@
-      Step by Step Guide  
+## Step by Step Guide
 
-1. First Go to 'Add File' -> 'Create New File'
-2. Give Title to your Codes
-3. Write or Paste Code 
-4. Write Commit (& Comment) and click on 'Create New File'
-5. Request 'Pull Request'.
+### Cloning Repository
+
+1. Clone this Repository.
+2. Add Code to Specific Folder or Edit Others Code.
+3. Create a Pull Request
+
+### Directly From Github
+
+1. First Go to Specific Folder then 'Add File' -> 'Create New File' OR Edit Others' Code
+2. Write or Paste Code Your Code
+3. Create a Pull Request
+
+You can even add code in other languages that are not mentioned above.
+For that, just create a Folder with the name of Language and put your code inside of that.
