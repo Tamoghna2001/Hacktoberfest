@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-int r, Area;
+double r, Area;
 int main()
 {
     cout<<"The radius of the circle is ";
