@@ -2,9 +2,10 @@
 
 ### Cloning Repository
 
-1. Clone this Repository.
-2. Add Code to Specific Folder or Edit Others Code.
-3. Create a Pull Request
+1. Star this Repository.
+2. Clone this Repository.
+3. Add Code to Specific Folder or Edit Others Code.
+4. Create a Pull Request
 
 ### Directly From Github
 
