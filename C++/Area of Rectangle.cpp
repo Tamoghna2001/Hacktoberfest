@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-int length, width, Area;
+double length, width, Area;
 int main()
 {
     cout<<"The length of the rectangle is ";
