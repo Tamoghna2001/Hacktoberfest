@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int side, Area;
+double side, Area;
 int main()
 {
     cout<<"The side of the square is ";
