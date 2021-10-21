@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int a, b, c, d, y;
+double a, b, c, d, y;
 
 int main()
 {
